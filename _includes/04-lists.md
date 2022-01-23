@@ -1,10 +1,6 @@
-<ol>
-    <li>This</li>
-    <li>Is an</li>
-    <li>Ordered list</li>
-</ol>
-<ul>
-    <li>This</li>
-    <li>Is an</li>
-    <li>Unordered list</li>
-</ul>
+*hi
+*Hello
+*Heloooo 
+    
+  
+    
